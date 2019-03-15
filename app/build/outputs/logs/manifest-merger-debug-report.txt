@@ -1,0 +1,150 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/rey1mx/Documents/Developer/KotlinNative/Expenses/app/src/main/AndroidManifest.xml:2:1-19:12
+INJECTED from /Users/rey1mx/Documents/Developer/KotlinNative/Expenses/app/src/main/AndroidManifest.xml:2:1-19:12
+INJECTED from /Users/rey1mx/Documents/Developer/KotlinNative/Expenses/app/src/main/AndroidManifest.xml:2:1-19:12
+INJECTED from /Users/rey1mx/Documents/Developer/KotlinNative/Expenses/app/src/main/AndroidManifest.xml:2:1-19:12
+MERGED from [androidx.appcompat:appcompat:1.0.0] /Users/rey1mx/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/d417611ed508e4147f123ef8b0d2876f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.2] /Users/rey1mx/.gradle/caches/transforms-1/files-1.1/constraintlayout-1.1.2.aar/705bd1696e89b1db00ddb92e3bcb40f1/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/rey1mx/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/d8330006042481351def23e36416d386/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/rey1mx/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/6cf5bea848b39a22285d39f0b265cdb3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/rey1mx/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/77d5c88c3ba1e69c2746befa414cfefe/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/rey1mx/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/765183c48dffef9ddc9f43134590647c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /Users/rey1mx/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.0.aar/083ca28d0d6485a42abaa8132b03bb9a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/rey1mx/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/f310ad7f50cf966a63d3592be605c3c9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/rey1mx/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/eb708c38cfce6bff5ca7548d10faae14/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/rey1mx/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/5be0fb80a3234b9789c947bc1a2575a6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/rey1mx/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/5d2b4f285ee6249103e3066527986f94/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/rey1mx/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/7dfb712a94410ce432ff88bac37ce1d2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/rey1mx/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/85311bceaa7938d8ad88fb4b7314541c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/rey1mx/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/70f81aed3a4bb1a8d06ce1a3041bb105/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/rey1mx/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/77812398814e8aab8cc6bad05f3fc1d1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0] /Users/rey1mx/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/3b14e69940791851b5aa760aefad6f31/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/rey1mx/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/38958f144ae09e14772803faed539647/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/rey1mx/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/0817b322d97895f1b54a8a5f81b30808/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/rey1mx/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/5f161619dceee68ad5bb64fe08ec4f36/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/rey1mx/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/dc51763ede99420d5eb451e13a14f99b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/rey1mx/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/864d2e49fb94c728b1fee7b98322be3f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/rey1mx/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/70047df18bfc64d4fdbf2b78a2206332/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/rey1mx/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/1efd0267d7b52fe3954b6a71ff03791c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/rey1mx/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/51eeb960ca8e50eadf6ff4b3beb425a0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/rey1mx/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/99271761eb73cee5b62c776a89455912/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/rey1mx/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/6a62779f852b74680ed35245df2d898a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/rey1mx/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/ec1219fac629594e96ca1ad89f3d4345/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/rey1mx/Documents/Developer/KotlinNative/Expenses/app/src/main/AndroidManifest.xml:2:1-19:12
+INJECTED from /Users/rey1mx/Documents/Developer/KotlinNative/Expenses/app/src/main/AndroidManifest.xml:2:1-19:12
+INJECTED from /Users/rey1mx/Documents/Developer/KotlinNative/Expenses/app/src/main/AndroidManifest.xml:2:1-19:12
+	package
+		ADDED from /Users/rey1mx/Documents/Developer/KotlinNative/Expenses/app/src/main/AndroidManifest.xml:3:11-27
+		INJECTED from /Users/rey1mx/Documents/Developer/KotlinNative/Expenses/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/rey1mx/Documents/Developer/KotlinNative/Expenses/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/rey1mx/Documents/Developer/KotlinNative/Expenses/app/src/main/AndroidManifest.xml
+		ADDED from /Users/rey1mx/Documents/Developer/KotlinNative/Expenses/app/src/main/AndroidManifest.xml:2:1-19:12
+		INJECTED from /Users/rey1mx/Documents/Developer/KotlinNative/Expenses/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/rey1mx/Documents/Developer/KotlinNative/Expenses/app/src/main/AndroidManifest.xml
+		ADDED from /Users/rey1mx/Documents/Developer/KotlinNative/Expenses/app/src/main/AndroidManifest.xml:2:1-19:12
+		INJECTED from /Users/rey1mx/Documents/Developer/KotlinNative/Expenses/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/rey1mx/Documents/Developer/KotlinNative/Expenses/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/rey1mx/Documents/Developer/KotlinNative/Expenses/app/src/main/AndroidManifest.xml:5:5-17:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.2] /Users/rey1mx/.gradle/caches/transforms-1/files-1.1/constraintlayout-1.1.2.aar/705bd1696e89b1db00ddb92e3bcb40f1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.2] /Users/rey1mx/.gradle/caches/transforms-1/files-1.1/constraintlayout-1.1.2.aar/705bd1696e89b1db00ddb92e3bcb40f1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.0.0] /Users/rey1mx/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/3b14e69940791851b5aa760aefad6f31/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] /Users/rey1mx/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/3b14e69940791851b5aa760aefad6f31/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/rey1mx/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/38958f144ae09e14772803faed539647/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/rey1mx/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/38958f144ae09e14772803faed539647/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0] /Users/rey1mx/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/3b14e69940791851b5aa760aefad6f31/AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from /Users/rey1mx/Documents/Developer/KotlinNative/Expenses/app/src/main/AndroidManifest.xml:8:13-39
+	android:label
+		ADDED from /Users/rey1mx/Documents/Developer/KotlinNative/Expenses/app/src/main/AndroidManifest.xml:7:13-45
+	android:allowBackup
+		ADDED from /Users/rey1mx/Documents/Developer/KotlinNative/Expenses/app/src/main/AndroidManifest.xml:6:13-39
+	android:theme
+		ADDED from /Users/rey1mx/Documents/Developer/KotlinNative/Expenses/app/src/main/AndroidManifest.xml:9:13-44
+activity#sample.MainActivity
+ADDED from /Users/rey1mx/Documents/Developer/KotlinNative/Expenses/app/src/main/AndroidManifest.xml:10:9-16:20
+	android:name
+		ADDED from /Users/rey1mx/Documents/Developer/KotlinNative/Expenses/app/src/main/AndroidManifest.xml:10:19-53
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/rey1mx/Documents/Developer/KotlinNative/Expenses/app/src/main/AndroidManifest.xml:11:13-15:29
+action#android.intent.action.MAIN
+ADDED from /Users/rey1mx/Documents/Developer/KotlinNative/Expenses/app/src/main/AndroidManifest.xml:12:17-69
+	android:name
+		ADDED from /Users/rey1mx/Documents/Developer/KotlinNative/Expenses/app/src/main/AndroidManifest.xml:12:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/rey1mx/Documents/Developer/KotlinNative/Expenses/app/src/main/AndroidManifest.xml:14:17-77
+	android:name
+		ADDED from /Users/rey1mx/Documents/Developer/KotlinNative/Expenses/app/src/main/AndroidManifest.xml:14:27-74
+uses-sdk
+INJECTED from /Users/rey1mx/Documents/Developer/KotlinNative/Expenses/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/rey1mx/Documents/Developer/KotlinNative/Expenses/app/src/main/AndroidManifest.xml
+INJECTED from /Users/rey1mx/Documents/Developer/KotlinNative/Expenses/app/src/main/AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat:1.0.0] /Users/rey1mx/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/d417611ed508e4147f123ef8b0d2876f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] /Users/rey1mx/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/d417611ed508e4147f123ef8b0d2876f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.2] /Users/rey1mx/.gradle/caches/transforms-1/files-1.1/constraintlayout-1.1.2.aar/705bd1696e89b1db00ddb92e3bcb40f1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.2] /Users/rey1mx/.gradle/caches/transforms-1/files-1.1/constraintlayout-1.1.2.aar/705bd1696e89b1db00ddb92e3bcb40f1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/rey1mx/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/d8330006042481351def23e36416d386/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/rey1mx/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/d8330006042481351def23e36416d386/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/rey1mx/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/6cf5bea848b39a22285d39f0b265cdb3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/rey1mx/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/6cf5bea848b39a22285d39f0b265cdb3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/rey1mx/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/77d5c88c3ba1e69c2746befa414cfefe/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/rey1mx/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/77d5c88c3ba1e69c2746befa414cfefe/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/rey1mx/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/765183c48dffef9ddc9f43134590647c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/rey1mx/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/765183c48dffef9ddc9f43134590647c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /Users/rey1mx/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.0.aar/083ca28d0d6485a42abaa8132b03bb9a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /Users/rey1mx/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.0.aar/083ca28d0d6485a42abaa8132b03bb9a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/rey1mx/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/f310ad7f50cf966a63d3592be605c3c9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/rey1mx/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/f310ad7f50cf966a63d3592be605c3c9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/rey1mx/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/eb708c38cfce6bff5ca7548d10faae14/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/rey1mx/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/eb708c38cfce6bff5ca7548d10faae14/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/rey1mx/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/5be0fb80a3234b9789c947bc1a2575a6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/rey1mx/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/5be0fb80a3234b9789c947bc1a2575a6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/rey1mx/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/5d2b4f285ee6249103e3066527986f94/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/rey1mx/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/5d2b4f285ee6249103e3066527986f94/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/rey1mx/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/7dfb712a94410ce432ff88bac37ce1d2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/rey1mx/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/7dfb712a94410ce432ff88bac37ce1d2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/rey1mx/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/85311bceaa7938d8ad88fb4b7314541c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/rey1mx/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/85311bceaa7938d8ad88fb4b7314541c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/rey1mx/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/70f81aed3a4bb1a8d06ce1a3041bb105/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/rey1mx/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/70f81aed3a4bb1a8d06ce1a3041bb105/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/rey1mx/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/77812398814e8aab8cc6bad05f3fc1d1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/rey1mx/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/77812398814e8aab8cc6bad05f3fc1d1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /Users/rey1mx/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/3b14e69940791851b5aa760aefad6f31/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /Users/rey1mx/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/3b14e69940791851b5aa760aefad6f31/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/rey1mx/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/38958f144ae09e14772803faed539647/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/rey1mx/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/38958f144ae09e14772803faed539647/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/rey1mx/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/0817b322d97895f1b54a8a5f81b30808/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/rey1mx/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/0817b322d97895f1b54a8a5f81b30808/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/rey1mx/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/5f161619dceee68ad5bb64fe08ec4f36/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/rey1mx/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/5f161619dceee68ad5bb64fe08ec4f36/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/rey1mx/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/dc51763ede99420d5eb451e13a14f99b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/rey1mx/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/dc51763ede99420d5eb451e13a14f99b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/rey1mx/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/864d2e49fb94c728b1fee7b98322be3f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/rey1mx/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/864d2e49fb94c728b1fee7b98322be3f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/rey1mx/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/70047df18bfc64d4fdbf2b78a2206332/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/rey1mx/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/70047df18bfc64d4fdbf2b78a2206332/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/rey1mx/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/1efd0267d7b52fe3954b6a71ff03791c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/rey1mx/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/1efd0267d7b52fe3954b6a71ff03791c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/rey1mx/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/51eeb960ca8e50eadf6ff4b3beb425a0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/rey1mx/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/51eeb960ca8e50eadf6ff4b3beb425a0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/rey1mx/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/99271761eb73cee5b62c776a89455912/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/rey1mx/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/99271761eb73cee5b62c776a89455912/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/rey1mx/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/6a62779f852b74680ed35245df2d898a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/rey1mx/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/6a62779f852b74680ed35245df2d898a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/rey1mx/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/ec1219fac629594e96ca1ad89f3d4345/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/rey1mx/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/ec1219fac629594e96ca1ad89f3d4345/AndroidManifest.xml:20:5-44
+INJECTED from /Users/rey1mx/Documents/Developer/KotlinNative/Expenses/app/src/main/AndroidManifest.xml
+INJECTED from /Users/rey1mx/Documents/Developer/KotlinNative/Expenses/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/rey1mx/Documents/Developer/KotlinNative/Expenses/app/src/main/AndroidManifest.xml
+		ADDED from /Users/rey1mx/Documents/Developer/KotlinNative/Expenses/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/rey1mx/Documents/Developer/KotlinNative/Expenses/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/rey1mx/Documents/Developer/KotlinNative/Expenses/app/src/main/AndroidManifest.xml
+		ADDED from /Users/rey1mx/Documents/Developer/KotlinNative/Expenses/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/rey1mx/Documents/Developer/KotlinNative/Expenses/app/src/main/AndroidManifest.xml

@@ -1,4 +1,4 @@
-#Fri Mar 15 20:31:21 CST 2019
+#Sat Mar 16 07:46:18 CST 2019
 base.0=/Users/rey1mx/Documents/Developer/KotlinNative/Expenses/app/build/intermediates/transforms/dexMerger/debug/4
 renamed.0=classes.dex
 path.0=classes.dex

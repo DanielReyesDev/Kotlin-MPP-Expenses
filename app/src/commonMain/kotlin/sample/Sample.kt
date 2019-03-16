@@ -1,5 +1,6 @@
 package sample
 
+/*
 expect class Sample() {
     fun checkMe(): Int
 }
@@ -16,4 +17,4 @@ class Proxy {
 
 fun main(args: Array<String>) {
     println(hello())
-}
+}*/

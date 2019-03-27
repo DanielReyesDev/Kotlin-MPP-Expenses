@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="org.jetbrains.kotlin.mpp_app_android"
+    package="com.skylabs.expenses"
     android:versionCode="1"
     android:versionName="1.0" >
 
@@ -16,7 +16,9 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/AppTheme" >
-        <activity android:name="sample.MainActivity" >
+        <activity
+            android:name="com.skylabs.expenses.MainActivity"
+            android:screenOrientation="portrait" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -26,7 +28,7 @@
 
         <provider
             android:name="com.android.tools.ir.server.InstantRunContentProvider"
-            android:authorities="org.jetbrains.kotlin.mpp_app_android.com.android.tools.ir.server.InstantRunContentProvider"
+            android:authorities="com.skylabs.expenses.com.android.tools.ir.server.InstantRunContentProvider"
             android:multiprocess="true" />
     </application>
 

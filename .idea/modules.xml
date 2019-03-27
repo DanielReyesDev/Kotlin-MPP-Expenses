@@ -2,13 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Expenses.iml" filepath="$PROJECT_DIR$/.idea/modules/Expenses.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Expenses.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Expenses.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Expenses.iml" filepath="$PROJECT_DIR$/Expenses.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/Expenses.app.commonMain.iml" filepath="$PROJECT_DIR$/app/Expenses.app.commonMain.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/Expenses.app.commonTest.iml" filepath="$PROJECT_DIR$/app/Expenses.app.commonTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/Expenses.app.iosMain.iml" filepath="$PROJECT_DIR$/app/Expenses.app.iosMain.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/Expenses.app.iosTest.iml" filepath="$PROJECT_DIR$/app/Expenses.app.iosTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/expenses/Expenses.expenses.iml" filepath="$PROJECT_DIR$/.idea/modules/expenses/Expenses.expenses.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>

@@ -4,6 +4,25 @@
             "outputFile": "/Users/rey1mx/Documents/Developer/KotlinNative/Expenses/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
             "map": [
                 {
+                    "source": "/Users/rey1mx/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/5d7acb22fad22869d5cbb2207c2e07dd/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "10",
+                        "endOffsets": "222"
+                    },
+                    "to": {
+                        "startLines": "5",
+                        "startColumns": "4",
+                        "startOffsets": "264",
+                        "endLines": "8",
+                        "endColumns": "10",
+                        "endOffsets": "431"
+                    }
+                },
+                {
                     "source": "/Users/rey1mx/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/d417611ed508e4147f123ef8b0d2876f/res/values-land/values-land.xml",
                     "from": {
                         "startLines": "2,3,4",

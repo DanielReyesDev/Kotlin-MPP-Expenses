@@ -8,13 +8,48 @@
         android:layout_height="match_parent"
         tools:context=".MainActivity">
 
+    <ImageView
+            android:id="@+id/pokemon_sprite"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintWidth_percent="0.4"
+            app:layout_constraintDimensionRatio="W,1:1"
+            app:layout_constraintEnd_toStartOf="@+id/pokemon_info" />
+
     <TextView
-            android:layout_width="wrap_content"
+            android:id="@+id/pokemon_info"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:gravity="center_vertical"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintWidth_percent="0.4"
+            app:layout_constraintDimensionRatio="W,1:1"
+            app:layout_constraintStart_toEndOf="@+id/pokemon_sprite"/>
+
+    <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/pokelist_rv"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            app:layout_constraintTop_toBottomOf="@+id/pokemon_sprite"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintBottom_toTopOf="@+id/nintendo_trademarks"/>
+
+    <TextView
+            android:id="@+id/nintendo_trademarks"
+            android:layout_width="0dp"
             android:layout_height="wrap_content"
-            android:layout_centerHorizontal="true"
-            android:layout_centerVertical="true"
-            android:padding="15dp"
-            android:text="hello"
-            tools:context=".MainActivity" />
+            android:minHeight="32dp"
+            android:gravity="center_horizontal"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintBottom_toBottomOf="parent"
+            android:paddingStart="16dp"
+            android:paddingEnd="16dp"
+            android:text="Pokémon and Pokémon character names are trademarks of Nintendo."
+            android:background="@android:color/darker_gray"/>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
